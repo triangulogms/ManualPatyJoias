@@ -28,12 +28,12 @@ Manual de usos do sistema de catálogo da empresa PatyJoias.
   Para cadastrar o produto primeiramente precisa-se acessar a página de cadastro. Para isso, existem duas formas para realizar essa ação.
   
   #### Botão Adicionar Produtos
-  _'imagem da página'_
+  ![](/assets/botao_add_produtos.png)
   #### Menu Lateral
-  _'imagem da página'_
+  ![](/assets/menu_lateral.png)
   
   Nessa página você encontrará um fomúlário com todas as com todas as informações necessárias a serem preenchidas para cadastrar um produto.
-  _'imagem da página'_
+  ![](/assets/cad_produto.png)
   O botão **Adicionar Produtos** irá inserir o seu produto na sua base de dados e o botão **redefinir** irá limpar todos os campos da tela.
   
 ## Adicionar Vídeo ao produto
@@ -51,23 +51,23 @@ Manual de usos do sistema de catálogo da empresa PatyJoias.
 
   Na lista de produtos, haverá uma tabela listando os produtos e cada produto terá um botão de ação. Para editar, basta clicar no botão **Editar** referente ao produto que se deseja editar.
   Você será redirecionado para uma página semelhante à página de cadastro. Nessa página todos os campos já estarão preenchidos com as informações existentes do protudo e será exibido a mídia cadastrada (imagem ou vídeo).
-  _'imagem da página'_
+ ![](/assets/editar_produto.png)
   O botão **Cancelar** retornará para a página de produtos e o botão **Salvar Alterações** atualizará as informações no banco de dados.
 
 ## Excluir Produto
 
   Na lista de Produtos, os lado do botão editar, há um botão **excluir**. **_Essa ação não tem retorno_**.
-  _'imagem da página'_
+  ![](/assets/botao_excluir_editar.png)
   
 ## Adicionar Categoria
 
   Acessando a página de categorias por meio do menu lateral, você irá encontar uma página com um campo de nova categoria e em seguinda um botão, o qual vc usará para adicionar uma nova categoria. E abaixo desse campo, encontra-se uma lista com todas as categorias existentes.
-  _'imagem da página'_
+  ![](/assets/categorias.png)
 
 ## Editar Campanha
 
    Acessando a página de campanha por meio do menu lateral, haverá um campo para inserir uma nova campanha. Acima desse campo se encontra a atual campanha que está sendo exibida para os clientes que acessarem o site.
-   _'imagem da página'_
+   ![](/assets/campanha.png)
    
  ## Alterar Credenciais de Acesso (login e senha)
   
@@ -83,6 +83,8 @@ Manual de usos do sistema de catálogo da empresa PatyJoias.
   3. Definir o título e na sessão _público_ escolher a opção 'não, não é conteúdo para crianças' e clicar em próximo.
   4. Na sessão 'Elemenstos do vídeo' não há necessidade de configuração e você pode pular a etapa.
   5. Na sessão 'Visibilidade', você pode configurar como **não listado** e clicar em salvar.
+  
+  ![](/assets/youtube.gif)
   
 ## Acessar os seus Vídeos no YouTube
 
