@@ -45,7 +45,7 @@ Manual de usos do sistema de catálogo da empresa PatyJoias.
     4. Copiar todo o código que será exibido.
     5. Colar no campo de vídeo na página de cadastro de produto.
     
-   _'Gif de Instrução'_
+   ![](/assets/inserir_video.gif)
   
 ## Editar produto
 
