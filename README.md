@@ -19,7 +19,7 @@ Manual de usos do sistema de catálogo da empresa PatyJoias.
   Para acessar o sistema de controle basta acessar o seguinte link: [patyjoias.com/login](https://patyjoias.com/login)
   E na página irá solicitar o login e senha de acesso:
   
-  _'imagem da página'_
+  ![](/assets/login.png)
   
   Após isso basta clicar em entrar para acessar a página de administrador.
   
