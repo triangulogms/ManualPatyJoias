@@ -1,4 +1,4 @@
-# ManualPatyJoias
+# Manual Paty Joias
 Manual de usos do sistema de catálogo da empresa PatyJoias.
 [PatyJoias.com](https://patyjoias.com)
 
